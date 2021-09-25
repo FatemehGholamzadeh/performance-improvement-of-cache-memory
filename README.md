@@ -9,6 +9,6 @@ results showed that hit ratio of Direct Mapped Cache is about 68% but by adding 
 the victim cache in this project is a fully associated, 256 byte with LRU replacement policy.
 
 
-#### the block diagram of this system, is shown bellow:
+### the block diagram of this system, is shown bellow:
 ![image](https://user-images.githubusercontent.com/44861408/134782322-cb3543e2-8693-44cb-b39b-4501e7750faa.png)
 
