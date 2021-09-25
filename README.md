@@ -10,7 +10,7 @@ at first we produce some random addresses:
 * addresses have both, temporal and special locality
 * for each file, first we produce 100 addresses and then add temporal and special locality to them by repeating these addresses
 
-then we implement a victim cache as a specialized cache and calculate the hit ratio.
+then victim cache as a specialized cache is implemented and this is the time to calculate hit ratio.
 results showed that hit ratio of Direct Mapped Cache is about 68% but by adding victim cache, hit ratio increses to 85%.
 the victim cache in this project is a fully associated, 256 byte with LRU replacement policy.
 
